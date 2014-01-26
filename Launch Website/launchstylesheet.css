@@ -1,0 +1,92 @@
+body{
+    font-family: Verdana;
+    list-style: none;
+    color: #373838;
+    background-image: url( diagonales_decalees.png ) ;
+    background-attachment: fixed;
+    
+    }
+
+a{
+	padding: 8px;
+	float: left;
+	}  
+	  
+a:link{
+	text-decoration: none;
+	color: #3498DB;
+	}
+a:visited{
+	text-decoration: none;
+	color: #3498DB;
+	}
+a:hover{
+	color: #3DB1FF;	
+	}
+ 
+    
+#header{
+    background-color: ;
+    padding-left: 50px
+    
+    }
+#stick {
+	float: right;
+	
+	
+}
+    
+#main{
+	background-color: white;
+    float: left;
+    width: 800px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    
+}
+#menu{
+    float: right;
+    margin-top: 120px;
+    margin-right: -200px;
+    margin-left: 25px;
+    width: 200px;
+    display: table-cell;
+    text-align: left;
+    padding-left: 25px;
+    vertical-align: middle;    
+    }
+
+
+#main img{
+	height: 175px;
+	width: auto;
+	float: left;
+	padding: 5px;
+}
+#main p {
+	display: block;
+
+}
+
+    
+
+#facebook{
+	width: 50px;
+	height: 50px;
+	background-color: #4c66a4;
+	border-radius: 5px;
+}
+#linkedin{
+	width: 50px;
+	height: 50px;
+	background-color: #069;
+	border-radius: 5px;
+	
+	
+}
+
+
+
